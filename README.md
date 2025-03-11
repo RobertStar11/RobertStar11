@@ -10,9 +10,16 @@
 ---
 
 ## 🚀 Sobre Mí
-💡 Soy un apasionado del desarrollo web con un enfoque en **PHP, Tailwind CSS y MySQL**.  
-📚 Me encanta la **programación estructurada**, optimizar código y explorar soluciones tecnológicas.  
-🔧 Tengo **conocimiento avanzado** en **PseInt**, lo que me permite analizar algoritmos de manera efectiva.
+💡 Desarrollador web especializado en **PHP con CodeIgniter, MySQL y Tailwind CSS**.  
+📚 Me apasiona la creación de sistemas eficientes y escalables para diversas industrias.  
+🔧 Tengo **conocimiento avanzado** en **PseInt**, lo que me permite diseñar algoritmos optimizados.  
+
+---
+
+## 🔥 Proyectos Actuales
+📌 **[Grupo Empatic](#)** → Desarrollo de la **página web** para mejorar su presencia digital.  
+📌 **[SIGISTRANS](#)** → **Sistema de gestión de transportistas**, optimizando el control y administración.  
+📌 **[IMB Sistema Educativo](#)** → Plataforma para mejorar la gestión y aprendizaje en el instituto.  
 
 ---
 
@@ -31,12 +38,6 @@
 
 ---
 
-## 🔥 Proyectos Destacados  
-🚧 Actualmente desarrollando un **sitio web para rendición de cuentas** en **PHP y MySQL**.  
-💡 Explorando **nuevas ideas de emprendimiento** para mejorar la calidad de vida en mi comunidad.
-
----
-
 ## 📌 Contacto y Redes
 📬 **¡Hablemos!** Puedes contactarme en:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil)  
@@ -44,8 +45,7 @@
 
 ---
 
-✨ **Diviértete explorando mi perfil y proyectos!** 🚀  
-
+✨ **¡Sigue mi trabajo y ve cómo evolucionan estos proyectos!** 🚀
 
 <!---
 RobertStar11/RobertStar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
