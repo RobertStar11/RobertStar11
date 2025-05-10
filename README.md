@@ -10,16 +10,14 @@
 ---
 
 ## 🚀 Sobre Mí
-💡 Desarrollador web especializado en **PHP con CodeIgniter, MySQL y Tailwind CSS**.  
+💡 Desarrollador web especializado en **PHP con CodeIgniter, MySQL**.  
 📚 Me apasiona la creación de sistemas eficientes y escalables para diversas industrias.  
 🔧 Tengo **conocimiento avanzado** en **PseInt**, lo que me permite diseñar algoritmos optimizados.  
 
 ---
 
 ## 🔥 Proyectos Actuales
-📌 **[Grupo Empatic](#)** → Desarrollo de la **página web** para mejorar su presencia digital.  
 📌 **[SIGISTRANS](#)** → **Sistema de gestión de transportistas**, optimizando el control y administración.  
-📌 **[IMB Sistema Educativo](#)** → Plataforma para mejorar la gestión y aprendizaje en el instituto.  
 
 ---
 
@@ -40,7 +38,7 @@
 
 ## 📌 Contacto y Redes
 📬 **¡Hablemos!** Puedes contactarme en:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-julian-paico-vasquez-565237263/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertStar11)
 
 ---
